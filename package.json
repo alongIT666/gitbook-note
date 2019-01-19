@@ -1,0 +1,22 @@
+{
+  "name": "gitbook-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "build": "gitbook build ./content ./docs"
+
+},   
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alongIT666/gitbook-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alongIT666/gitbook-note/issues"
+  },
+  "homepage": "https://github.com/alongIT666/gitbook-note#readme"
+}
